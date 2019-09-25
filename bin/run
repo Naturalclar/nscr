@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+const exec = require("../lib");
+
+exec(process.argv);
